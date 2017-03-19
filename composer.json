@@ -16,7 +16,7 @@
         "phpunit/phpunit": "^6.0",
         "squizlabs/php_codesniffer": "^2.8"
     },
-    "license": "Creative Commons 3",
+    "license": "MIT",
     "authors": [
         {
             "name": "Benny L.E.P",
