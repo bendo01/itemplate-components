@@ -1,0 +1,27 @@
+{
+    "name": "bendo01/itemplate-components",
+    "description": "laravel itemplate components",
+    "type": "library",
+    "description": "View components and Sublime Text snippets to integrate Bulma.io easier into your Laravel 5.4 (or more) projects",
+    "autoload": {
+        "psr-4": {
+            "Bendo01\\ITemplateComponents\\":"packages/bendo01/itemplate-components/src"
+        }
+    },
+    "require": {
+        "php": ">=7.1.2",
+        "illuminate/support": "^5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0",
+        "squizlabs/php_codesniffer": "^2.8"
+    },
+    "license": "Creative Commons 3",
+    "authors": [
+        {
+            "name": "Benny L.E.P",
+            "email": "bendo01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
